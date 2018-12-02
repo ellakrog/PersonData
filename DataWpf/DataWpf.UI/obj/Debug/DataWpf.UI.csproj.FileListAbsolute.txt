@@ -1,0 +1,24 @@
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.UI.exe.config
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.UI.exe
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.UI.pdb
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.Model.dll
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.ViewModel.dll
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.Model.pdb
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\bin\Debug\DataWpf.ViewModel.pdb
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.csprojResolveAssemblyReference.cache
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\obj\Debug\MainWindow.g.cs
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\obj\Debug\NewEditWindow.g.cs
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\obj\Debug\App.g.cs
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI_MarkupCompile.cache
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI_MarkupCompile.lref
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\obj\Debug\App.baml
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\obj\Debug\MainWindow.baml
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\obj\Debug\NewEditWindow.baml
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.g.resources
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.Properties.Resources.resources
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.csproj.GenerateResource.Cache
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.exe
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.pdb
+D:\kroge\posao radovi\posao-svi podaci\laptop data\AukcijaWPF\DataWpf\DataWpf.UI\bin\Debug\DataWpf.UI.exe.config
+D:\kroge\posao radovi\posao-svi podaci\laptop data\AukcijaWPF\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.exe
+D:\kroge\posao radovi\posao-svi podaci\laptop data\AukcijaWPF\DataWpf\DataWpf.UI\obj\Debug\DataWpf.UI.pdb

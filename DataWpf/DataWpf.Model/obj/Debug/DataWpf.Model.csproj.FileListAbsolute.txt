@@ -1,0 +1,5 @@
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.Model\bin\Debug\DataWpf.Model.dll
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.Model\bin\Debug\DataWpf.Model.pdb
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.csprojResolveAssemblyReference.cache
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.dll
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.pdb

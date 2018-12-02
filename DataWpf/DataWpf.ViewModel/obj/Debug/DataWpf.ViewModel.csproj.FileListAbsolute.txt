@@ -1,0 +1,7 @@
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.ViewModel.dll
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.ViewModel.pdb
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.Model.dll
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.Model.pdb
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.dll
+C:\Users\MULTINORM-USR-44\Desktop\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.pdb
